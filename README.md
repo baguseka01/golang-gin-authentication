@@ -1,1 +1,1 @@
-# golang-jwt-authentication
+# golang-gin-authentication
